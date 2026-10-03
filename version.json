@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "build": "1",
+  "channel": "alpha",
+  "bundleIdentifier": "com.engaze.annotly",
+  "minimumSystemVersion": "26.0",
+  "releaseTag": "v0.1.0",
+  "releaseTitle": "Annotly 0.1.0 (alpha)",
+  "releasesRepository": "PrerakGada/annotly-releases",
+  "homebrewVersion": "0.1.0",
+  "cask": "annotly",
+  "assets": {
+    "dmg": "Annotly-0.1.0.dmg",
+    "zip": "Annotly-0.1.0.zip"
+  }
+}
