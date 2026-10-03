@@ -9,7 +9,7 @@ This repository only holds the signed downloads. Website: <https://annotly.prera
 
 ## This is an alpha
 
-Annotly 0.1.0 is the first alpha. It is signed and notarized by Apple and passes its own automated checks, but those
+Annotly 0.1.1 remains an alpha. It is signed and notarized by Apple and passes its own automated checks, but those
 run against stand-ins for the screen: drawing over the real screen, clicking through, the global shortcuts and the
 cursor effects have not yet had real use. Expect rough edges, and keep another way to present at hand until Annotly
 has earned its place. There is no in-app updater: update with `brew upgrade --cask annotly` or the newest disk image.
@@ -32,7 +32,7 @@ open -a Annotly
 
 Homebrew also links the `annotly` command-line tool.
 
-Or [download the DMG](https://github.com/PrerakGada/annotly-releases/releases/download/v0.1.0/Annotly-0.1.0.dmg):
+Or [download the DMG](https://github.com/PrerakGada/annotly-releases/releases/download/v0.1.1/Annotly-0.1.1.dmg):
 
 1. Open the downloaded disk image.
 2. Drag **Annotly** onto the **Applications** shortcut.
